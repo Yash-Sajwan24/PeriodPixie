@@ -1,4 +1,4 @@
-<h1 align="center"><b>Team MidHarmony Coders presents</b></h1>
+<h1 align="center"><b>Period Tracker</b></h1>
 
 <div align="center">
   <a id="top" href="" target="blank">
@@ -11,13 +11,16 @@
 
 ---
 
-## The motivation:
+## Demo Video: 
+https://drive.google.com/file/d/1lQAKxtWhPXBVnXIkbZ_CUf4Zjd3DzvZS/view?usp=sharing
 
-A recent UNICEF and WaterAid report highlights a concerning reality: over one-third of girls in South Asia are absent from school during their menstrual periods. This absence is primarily attributed to the lack of accessible toilets and sanitary pads in schools, coupled with inadequate education about menstruation. Recognizing menstrual hygiene as a global public health and human rights issue, the UN underscores the alarming statistic that 1.2 billion women worldwide lack access to basic sanitation and hygiene. In response, our commitment is to eradicate Period-Poverty and dismantle the enduring stigma by empowering girls through education and healthcare initiatives.
+## Motivation:
+
+A recent UNICEF and WaterAid report highlights a concerning reality: over one-third of girls in South Asia are absent from school during their menstrual periods. This absence is primarily attributed to the lack of accessible toilets and sanitary pads in schools, coupled with inadequate education about menstruation. Recognizing menstrual hygiene as a global public health and human rights issue, the UN underscores the alarming statistic that 1.2 billion women worldwide lack access to basic sanitation and hygiene. In response, our commitment is to eradicate period poverty and dismantle the enduring stigma by empowering girls through education and healthcare initiatives.
 
 ## Operational Approach:
 
-We aim to revolutionize women's healthcare by offering personalized feedback, analysis, mood tracking, and period cycle monitoring for women who face insecurities and enduring social stigma. Our platform enables users to meticulously Track their Period Cycle, receive insightful Mood Analysis, and access information about nearby hospitals and gynecologists for their medical needs. Through our platform, users can effortlessly Schedule Appointments with doctors and avail of remote consultations. Additionally, our blog section, titled Period Pulse, serves as a space for individuals to share informative content, challenging stereotypes, and contributing constructively to societal awareness. This section empowers each girl to showcase her knowledge and make a positive impact on society.
+We aim to revolutionize women's healthcare by offering personalized feedback, analysis, mood tracking, and period cycle monitoring for women who face insecurities and enduring social stigma. Our platform enables users to Track their Period Cycle meticulously, receive insightful Mood Analysis, and access information about nearby hospitals and gynecologists for their medical needs. Through our platform, users can effortlessly Schedule Appointments with doctors and avail of remote consultations. Additionally, our blog section, titled Period Pulse, serves as a space for individuals to share informative content, challenging stereotypes, and contributing constructively to societal awareness. This section empowers each girl to showcase her knowledge and make a positive impact on society.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,12 +115,3 @@ This is the place where **Pixir** can excess the extra features and can get all 
   ![image](https://storage.googleapis.com/project-hackdata/Moody-Bot.png)
 
 
----
-## MidHarmony Team:
-
-- (Veer Yadav -Team Leader)
-- (Saket Gupta -Team Member(1))
-- (Yash Sajwan -Team Member(2))
-- (Vishu Bhandari -Team Member(3))
-
-<p align="right">(<a href="#top">back to top</a>)</p>
